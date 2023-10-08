@@ -1,3 +1,5 @@
+# Statistics for an Athletic Association
+
 You are the "computer expert" of a local Athletic Association (C.A.A.). Many teams of runners come to compete. Each time you get a string of all race results of every team who has run. For example here is a string showing the individual results of a team of 5 runners:
 
 ```

@@ -7,10 +7,11 @@ The `universe-code-katas` repository serves as a comprehensive archive of coding
 ## Programming Languages Covered
 
 ```
-    -> Python
-    -> SQL
-    -> R
+    -> C++
     -> C#
     -> JavaScript
-    -> C++
+    -> Python
+    -> R
+    -> SQL
+    -> TypeScript
 ```
