@@ -25,7 +25,7 @@ class DigitPower {
 }
 
 // Testing the DigitPower class
-const digPow = (n, p) => {
+const dig_pow = (n, p) => {
   const digitPower = new DigitPower(n, p);
   return digitPower.findK();
 };
