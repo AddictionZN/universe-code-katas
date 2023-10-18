@@ -7,14 +7,16 @@ The `universe-code-katas` repository serves as a comprehensive archive of coding
 ## Programming Languages Covered
 
 ```
+
     MAIN:
     -> Python
     -> SQL
     -> JavaScript
+    -> C#
 
     BONUS:
-    -> C#
     -> C++
+
 ```
 
 ## KATA Layout
@@ -52,7 +54,7 @@ The `universe-code-katas` repository serves as a comprehensive archive of coding
 |       | kata-4 |     |     |     |            |        |     |
 |       | kata-5 |     |     |     |            |        |     |
 | kyu-3 |        |     |     |     |            |        |     |
-|       | kata-1 |     |     |     |            | ✔️     |     |
+|       | kata-1 |     |     |     | ✔️         | ✔️     |     |
 |       | kata-2 |     |     |     |            |        |     |
 |       | kata-3 |     |     |     |            |        |     |
 |       | kata-4 |     |     |     |            |        |     |
